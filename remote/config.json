@@ -1,0 +1,20 @@
+{
+  "app_title": "مهامي",
+  "primary_color": "#4F46E5",
+  "empty_message": "لا توجد مهام بعد — أضف أول مهمة!",
+  "announcement": {
+    "enabled": true,
+    "text": "مرحباً 👋 هذه الرسالة تأتي من GitHub ويمكنك تغييرها في أي وقت.",
+    "url": null
+  },
+  "features": {
+    "show_stats": true,
+    "show_priority": true
+  },
+  "apk_update": {
+    "min_build": 0,
+    "latest_build": 1,
+    "message": "يتوفر إصدار جديد يحتاج تثبيت. اضغط تحميل.",
+    "apk_url": "https://github.com/qbrahym02-cmyk/flutter-todo-ota/releases/latest/download/app-release.apk"
+  }
+}
